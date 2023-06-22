@@ -1,0 +1,7 @@
+https://teachablemachine.withgoogle.com/
+https://adamharley.com/nn_vis/cnn/2d.html
+https://chat.openai.com
+https://spectral-ai-web-app.vercel.app/
+https://challenge.isic-archive.com/
+https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science
+https://github.com/hugogontijomachado/SENAI_minicurso
